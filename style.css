@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Outfit', sans-serif;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: hsl(0, 0%, 100%);
+  margin-bottom: 0;
+}
+
+.background-card {
+  margin: auto;
+  text-align: center;
+  background-color:  hsl(212, 45%, 89%);
+  height: 415px;
+  width: 260px;
+  padding: 10px;
+  border-radius: 10px;
+}
+h2{
+  line-height: 27px;
+}
+.qr-code img {
+  margin-top: 3px;
+  border-radius: 10px;
+}
+
+.titleToqrcode {
+  padding: 10px;
+  margin-left: 8px;
+  margin-top: 9px;
+  text-align: center;
+  color: black;
+}
+
+.descriptionQr-code {
+  padding: 10px;
+  text-align: center;
+}
+
+span {
+  text-align: center;
+  margin-bottom: 30px;
+}
+p{
+  color: black;
+  font-size: 15px;
+}

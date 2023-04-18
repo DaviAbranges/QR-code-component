@@ -1,7 +1,7 @@
 # Frontend Mentor - QR code component
 Esse desafio era apenas criar um pagina com um qr code. Desafio criado pela equipe FRONTEND MENTOR. Segue o link do desafio https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H🚀
 
-Ultilizei apenas linguagem de marcação (HTML, CSS) para reproduzir essa página.
+Ultilizei apenas linguagem de marcação (HTML, CSS) para reproduzir essa página.i
 
 ENGLISH!
 

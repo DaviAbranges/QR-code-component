@@ -4,8 +4,6 @@ Esse desafio era apenas criar um pagina com um qr code. Desafio criado pela equi
 
 Ultilizei apenas linguagem de marcação (HTML, CSS) para reproduzir essa página.
 
-Como ainda sou iniciante farei vários projetos como esse para práticar e aprender mais sobre ambas linguagens (HTML e CSS).
-
 ENGLISH!
 
 This challenge was just to create a page with a qr code. Challenge created by the FRONTEND MENTOR team. Follow the challenge link https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H🚀
